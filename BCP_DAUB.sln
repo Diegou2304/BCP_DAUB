@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33627.172
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OPERACION_DAUB.API", "OPERACION_DAUB.API\OPERACION_DAUB.API.csproj", "{72CFDF0F-B871-4C90-BEFF-AD774D083FC8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OPERACION_DAUB.DOMAIN", "OPERACION_DAUB.DOMAIN\OPERACION_DAUB.DOMAIN.csproj", "{31103EB9-A356-45ED-8BEF-8AEC809E902B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OPERACION_DAUB.INFRASTRUCTURE", "OPERACION_DAUB.Infrastructure\OPERACION_DAUB.INFRASTRUCTURE.csproj", "{26DB8E3D-240D-416A-9FB0-6F382311D364}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OPERACION_DAUB.APPLICATION", "OPERACION_DAUB.APPLICATION\OPERACION_DAUB.APPLICATION.csproj", "{06FA2022-30A3-4126-8C5D-D88CD174E5F2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{72CFDF0F-B871-4C90-BEFF-AD774D083FC8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72CFDF0F-B871-4C90-BEFF-AD774D083FC8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72CFDF0F-B871-4C90-BEFF-AD774D083FC8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72CFDF0F-B871-4C90-BEFF-AD774D083FC8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{31103EB9-A356-45ED-8BEF-8AEC809E902B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31103EB9-A356-45ED-8BEF-8AEC809E902B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31103EB9-A356-45ED-8BEF-8AEC809E902B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31103EB9-A356-45ED-8BEF-8AEC809E902B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{26DB8E3D-240D-416A-9FB0-6F382311D364}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{26DB8E3D-240D-416A-9FB0-6F382311D364}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{26DB8E3D-240D-416A-9FB0-6F382311D364}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{26DB8E3D-240D-416A-9FB0-6F382311D364}.Release|Any CPU.Build.0 = Release|Any CPU
+		{06FA2022-30A3-4126-8C5D-D88CD174E5F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06FA2022-30A3-4126-8C5D-D88CD174E5F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06FA2022-30A3-4126-8C5D-D88CD174E5F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06FA2022-30A3-4126-8C5D-D88CD174E5F2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EDB01026-DBA2-484E-A34F-EADEFD968D47}
+	EndGlobalSection
+EndGlobal
